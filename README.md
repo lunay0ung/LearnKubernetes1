@@ -6,7 +6,8 @@ Curriculum
 - [ ] Architecting with Google Kubernetes Engine: Workloads 
 - [ ] Architecting with Google Kubernetes Engine: Production
 
-Screenshots . 
+Screenshots 
+------------
 
 Virtual Machines in the Cloud
 ---------------
