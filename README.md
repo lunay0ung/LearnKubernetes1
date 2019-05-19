@@ -1,12 +1,12 @@
 # Kubernetes Study Notes
 Curriculum
 -----------
-[X] Google Cloud Platform Fundamentals: Core Infrastructure
-[ ] Architecting with Google Kubernetes Engine: Foundations
-[ ] Architecting with Google Kubernetes Engine: Workloads
-[ ] Architecting with Google Kubernetes Engine: Production
+- [X] Google Cloud Platform Fundamentals: Core Infrastructure 
+- [ ] Architecting with Google Kubernetes Engine: Foundations 
+- [ ] Architecting with Google Kubernetes Engine: Workloads 
+- [ ] Architecting with Google Kubernetes Engine: Production
 
-Screenshots
+Screenshots 
 Virtual Machines in the Cloud
 ---------------
 <div> 
