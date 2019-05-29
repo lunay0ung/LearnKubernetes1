@@ -9,6 +9,8 @@ Curriculum
 - [X] Architecting with Google Kubernetes Engine: Foundations 
 - [ ] Architecting with Google Kubernetes Engine: Workloads 
 - [ ] Architecting with Google Kubernetes Engine: Production 
+
+
 *Learning materials of 'Architecting with Google Kubernetes Engine: Workloads and Production' are here: [kubernetes_study-2](https://github.com/luna-young/kubernetes_study-2)
 
 Screenshots 
